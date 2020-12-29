@@ -12,9 +12,9 @@ const APP_SHELL = [
     'index.html',
     'css/style.css',
     'img/favicon.ico',
-    'img/avatars/hulk.jpg',
-    'img/avatars/ironman.jpg',
-    'img/avatars/spiderman.jpg',
+    'img/news1.jpg',
+    'img/news2.jpg',
+    'img/news3.jpg',
     'img/avatars/thor.jpg',
     'img/avatars/wolverine.jpg',
     'js/app.js',
@@ -22,11 +22,12 @@ const APP_SHELL = [
 ];
 
 const APP_SHELL_INMUTABLE = [
-    'https://fonts.googleapis.com/css?family=Quicksand:300,400',
-    'https://fonts.googleapis.com/css?family=Lato:400,300',
+    'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css',
+    'https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400&display=swap',
     'https://use.fontawesome.com/releases/v5.3.1/css/all.css',
     'css/animate.css',
-    'js/libs/jquery.js'
+    'js/libs/jquery.js',
+    'styles.css'
 ];
 
 
